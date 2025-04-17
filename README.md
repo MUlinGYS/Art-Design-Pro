@@ -1,4 +1,5 @@
 简体中文 | [English](./README.en.md)
+##该仓库仅限于自己备份使用，原作者在readme文件中留有联系方式
 
 ## 关于 Art Design Pro
 
